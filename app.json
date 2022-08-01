@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Guia Alimentar BR",
+    "slug": "guiaalimentarbr",
+    "privacy": "public",
+    "sdkVersion": "40.0.0",
+    "ios": {
+      "bundleIdentifier": "com.guiaalimentar.guiaalimentarbr",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.guiaalimentar.guiaalimentarbr",
+      "versionCode": 1
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4fb8ce"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}
